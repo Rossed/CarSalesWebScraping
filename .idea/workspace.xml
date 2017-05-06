@@ -30,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CarFinder.groovy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CarFinder.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/CarFinder.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="64" column="24" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#1#21#0" expanded="true" />
               </folding>
@@ -52,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="car.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="car.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/car.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2968">
@@ -441,8 +441,8 @@
         <option value="$PROJECT_DIR$/src/main/groovy/Choice.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/ChoiceOdometer.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/Car.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/CarFinder.groovy" />
         <option value="$PROJECT_DIR$/src/main/resources/car.json" />
+        <option value="$PROJECT_DIR$/src/main/groovy/CarFinder.groovy" />
       </list>
     </option>
   </component>
@@ -1125,16 +1125,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/CarFinder.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="64" column="24" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
-          <folding>
-            <element signature="e#1#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/CarSorter.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1148,6 +1138,16 @@
         <state relative-caret-position="-2968">
           <caret line="39" column="37" lean-forward="false" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/CarFinder.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

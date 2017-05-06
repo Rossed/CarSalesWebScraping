@@ -813,6 +813,105 @@
             "choicePrice": "GOOD",
             "price": 699,
             "odometer": 192959
+        },
+        {
+            "lowerBoundPrice": 2300,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mitsubishi/Lancer/2002/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2002 Mitsubishi Lancer",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=408&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 3750,
+            "choicePrice": "GOOD",
+            "price": 1600,
+            "odometer": 174000
+        },
+        {
+            "lowerBoundPrice": 4700,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Falcon/2007/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2007 Ford Falcon",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=408&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 6200,
+            "choicePrice": "GOOD",
+            "price": 2200,
+            "odometer": 645000
+        },
+        {
+            "lowerBoundPrice": 5800,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Camry/2007/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2007 Toyota Camry",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=420&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 7450,
+            "choicePrice": "GOOD",
+            "price": 5000,
+            "odometer": 256000
+        },
+        {
+            "lowerBoundPrice": 3350,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Falcon/2005/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2005 Ford Falcon",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=420&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 4800,
+            "choicePrice": "GOOD",
+            "price": 3100,
+            "odometer": 230600
+        },
+        {
+            "lowerBoundPrice": 6700,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Nissan/Stagea/2002/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2002 Nissan Stagea",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=420&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 8700,
+            "choicePrice": "GOOD",
+            "price": 5500,
+            "odometer": 158000
+        },
+        {
+            "lowerBoundPrice": 5000,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Nissan/Tiida/2007/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2007 Nissan Tiida",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=420&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 6500,
+            "choicePrice": "GOOD",
+            "price": 4500,
+            "odometer": 176000
+        },
+        {
+            "lowerBoundPrice": 11050,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/BMW/X3/2005/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2005 BMW X3",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=420&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 13350,
+            "choicePrice": "GOOD",
+            "price": 4500,
+            "odometer": 275951
+        },
+        {
+            "lowerBoundPrice": 3750,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Camry/2004/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2004 Toyota Camry",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=420&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 5300,
+            "choicePrice": "GOOD",
+            "price": 3000,
+            "odometer": 246000
+        },
+        {
+            "lowerBoundPrice": 6900,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Cruze/2010/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2010 Holden Cruze",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=420&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 8350,
+            "choicePrice": "GOOD",
+            "price": 6500,
+            "odometer": 249500
         }
     ],
     [
@@ -1552,6 +1651,83 @@
             "choicePrice": "MEDIUM",
             "price": 2900,
             "odometer": 281000
+        },
+        {
+            "lowerBoundPrice": 3400,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Commodore/2005/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2005  Holden Commodore",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=408&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 4850,
+            "choicePrice": "MEDIUM",
+            "price": 4750,
+            "odometer": 190000
+        },
+        {
+            "lowerBoundPrice": 7550,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Hyundai/i30/2009/Automatic",
+            "choiceOdometer": "MEDIUM",
+            "carDescription": "2009  Hyundai i30",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=408&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 9150,
+            "choicePrice": "MEDIUM",
+            "price": 9000,
+            "odometer": 139000
+        },
+        {
+            "lowerBoundPrice": 2100,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Camry/2002/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2002  Toyota Camry",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=408&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 3500,
+            "choicePrice": "MEDIUM",
+            "price": 2500,
+            "odometer": 250000
+        },
+        {
+            "lowerBoundPrice": 7050,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Camry/2008/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2008  Toyota Camry",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=408&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 8700,
+            "choicePrice": "MEDIUM",
+            "price": 8300,
+            "odometer": 167000
+        },
+        {
+            "lowerBoundPrice": 5850,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Astra/2007/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2007  Holden Astra",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=408&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 7450,
+            "choicePrice": "MEDIUM",
+            "price": 6000,
+            "odometer": 213000
+        },
+        {
+            "lowerBoundPrice": 3650,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Falcon/2004/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2004  Ford Falcon",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=420&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 5150,
+            "choicePrice": "MEDIUM",
+            "price": 3950,
+            "odometer": 205375
+        },
+        {
+            "lowerBoundPrice": 1600,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Astra/2003/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2003  Holden Astra",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=420&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 2950,
+            "choicePrice": "MEDIUM",
+            "price": 2800,
+            "odometer": 175000
         }
     ],
     [
@@ -1928,6 +2104,17 @@
             "choicePrice": "BAD",
             "price": 9990,
             "odometer": 62816
+        },
+        {
+            "lowerBoundPrice": 2100,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Citroen/C3/2003/Automatic",
+            "choiceOdometer": "GOOD",
+            "carDescription": "2003 Citroen C3",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=420&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 3500,
+            "choicePrice": "BAD",
+            "price": 4350,
+            "odometer": 52000
         },
         {
             "lowerBoundPrice": 6650,
@@ -3215,6 +3402,28 @@
             "choicePrice": "BAD",
             "price": 9888,
             "odometer": 137506
+        },
+        {
+            "lowerBoundPrice": 6600,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Commodore/2009/Automatic",
+            "choiceOdometer": "BAD",
+            "carDescription": "2009 Holden Commodore",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=408&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 8100,
+            "choicePrice": "BAD",
+            "price": 9800,
+            "odometer": 170000
+        },
+        {
+            "lowerBoundPrice": 5050,
+            "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Focus/2009/Automatic",
+            "choiceOdometer": "MEDIUM",
+            "carDescription": "2009 Ford Focus",
+            "carWebsite": "https://www.carsales.com.au/cars/results?offset=408&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+            "upperBoundPrice": 6450,
+            "choicePrice": "BAD",
+            "price": 7900,
+            "odometer": 129876
         }
     ]
 ]
