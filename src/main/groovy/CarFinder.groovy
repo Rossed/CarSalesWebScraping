@@ -40,6 +40,9 @@ class CarFinder {
             Elements cars = doc.select(".listing-item")
             Elements carTitle = cars.select(".n_width-max h2")
             Elements carPrice = cars.select("div.price")
+            Elements carInfo = cars.select("div.vehicle-features > div:contains(km)")
+            Elements carOdemeterDiv = carInfo.select("div.feature-text")
+
 
             int index = 0
             for (Element h2 : carTitle) {
@@ -59,7 +62,10 @@ class CarFinder {
                 def year = details[0]
                 def make = details[1]
                 def model = details[2]
+                def rest = details[2..details.length-2]
                 def transmission = "Automatic"
+
+                def carOdemeter = carOdemeterDiv.get(index).text().substring(0, carOdemeterDiv.get(index).text().length() - 3 )
 
                 String display = String.format("year: %s, make: %s, model: %s, transmission, %s", year, make, model, transmission)
                 String searchString = "https://www.carsales.com.au/car-valuations/refine/" + make + "/" + model + "/" + year + "/" + transmission
@@ -68,6 +74,7 @@ class CarFinder {
 
                 //  And now use this to visit Google
                 price = NumberFormat.getNumberInstance(java.util.Locale.US).parse(price.substring(1, price.length() - 1))
+                carOdemeter = NumberFormat.getNumberInstance(java.util.Locale.US).parse(carOdemeter)
                 driver.get(searchString)
 
                 JavascriptExecutor jse = (JavascriptExecutor) driver
@@ -87,12 +94,26 @@ class CarFinder {
 
                         def lowerBoundPrice = NumberFormat.getNumberInstance(java.util.Locale.US).parse(priceOne.substring(1, priceOne.length() - 1))
                         def upperBoundPrice = NumberFormat.getNumberInstance(java.util.Locale.US).parse(priceTwo.substring(1, priceOne.length() - 1))
-                        if (price <= lowerBoundPrice) {
-                            allCars << new Car((year + " " + make + " " + model), price, lowerBoundPrice, upperBoundPrice, Choice.GOOD, urlMain, searchString)
-                        } else if (price <= upperBoundPrice) {
-                            allCars << new Car((year + " " + " " + make + " " + model), price, lowerBoundPrice, upperBoundPrice, Choice.MEDIUM, urlMain, searchString)
-                        } else {
-                            allCars << new Car((year + " " + make + " " + model), price, lowerBoundPrice, upperBoundPrice, Choice.BAD, urlMain, searchString)
+
+                        if (price <= lowerBoundPrice && carOdemeter <= 100000) {
+                            allCars << new Car((year + " " + make + " " + model), price, lowerBoundPrice, upperBoundPrice, ChoicePrice.GOOD, ChoiceOdometer.GOOD, urlMain, searchString, carOdemeter)
+                        } else if (price <= lowerBoundPrice && carOdemeter <= 150000) {
+                            allCars << new Car((year + " " + make + " " + model), price, lowerBoundPrice, upperBoundPrice, ChoicePrice.GOOD, ChoiceOdometer.MEDIUM, urlMain, searchString, carOdemeter)
+                        } else if (price <= lowerBoundPrice && carOdemeter > 150000) {
+                            allCars << new Car((year + " " + make + " " + model), price, lowerBoundPrice, upperBoundPrice, ChoicePrice.GOOD, ChoiceOdometer.BAD, urlMain, searchString, carOdemeter)
+                        }
+                        else if (price <= upperBoundPrice && carOdemeter <= 100000) {
+                            allCars << new Car((year + " " + " " + make + " " + model), price, lowerBoundPrice, upperBoundPrice, ChoicePrice.MEDIUM, ChoiceOdometer.GOOD, urlMain, searchString, carOdemeter)
+                        } else if (price <= upperBoundPrice && carOdemeter <= 150000) {
+                            allCars << new Car((year + " " + " " + make + " " + model), price, lowerBoundPrice, upperBoundPrice, ChoicePrice.MEDIUM, ChoiceOdometer.MEDIUM, urlMain, searchString, carOdemeter)
+                        } else if (price <= upperBoundPrice && carOdemeter > 150000) {
+                            allCars << new Car((year + " " + " " + make + " " + model), price, lowerBoundPrice, upperBoundPrice, ChoicePrice.MEDIUM, ChoiceOdometer.BAD, urlMain, searchString, carOdemeter)
+                        } else if (price > upperBoundPrice && carOdemeter <= 100000) {
+                            allCars << new Car((year + " " + make + " " + model), price, lowerBoundPrice, upperBoundPrice, ChoicePrice.BAD, ChoiceOdometer.GOOD, urlMain, searchString, carOdemeter)
+                        } else if (price > upperBoundPrice && carOdemeter <= 150000) {
+                            allCars << new Car((year + " " + make + " " + model), price, lowerBoundPrice, upperBoundPrice, ChoicePrice.BAD, ChoiceOdometer.MEDIUM, urlMain, searchString, carOdemeter)
+                        } else if (price > upperBoundPrice && carOdemeter > 150000) {
+                            allCars << new Car((year + " " + make + " " + model), price, lowerBoundPrice, upperBoundPrice, ChoicePrice.BAD, ChoiceOdometer.BAD, urlMain, searchString, carOdemeter)
                         }
 
                         driver.close()
@@ -111,17 +132,42 @@ class CarFinder {
             }
 
             def test = []
+            def goodPriceList = []
+            def mediumPriceList = []
+            def badPriceList = []
             for (int i = 0; i < 3 ; i++) {
-                for (def car in allCars) {
-                    if ( i == 2 && car.choice == Choice.BAD) {
-                        test << car
-                    } else if (i==1 && car.choice == Choice.MEDIUM) {
-                        test << car
-                    } else if (i==0 && car.choice == Choice.GOOD) {
-                        test << car
+                for (Car car in allCars) {
+                    if (car.choicePrice == ChoicePrice.BAD) {
+                        if (i == 0 && car.choiceOdometer == ChoiceOdometer.GOOD) {
+                            badPriceList << car
+                        } else if (i == 1 && car.choiceOdometer == ChoiceOdometer.MEDIUM) {
+                            badPriceList << car
+                        } else if (i == 2 && car.choiceOdometer == ChoiceOdometer.BAD) {
+                            badPriceList << car
+                        }
+                    } else if (car.choicePrice == ChoicePrice.MEDIUM) {
+                        if (i == 0 && car.choiceOdometer == ChoiceOdometer.GOOD) {
+                            mediumPriceList << car
+                        } else if (i == 1 && car.choiceOdometer == ChoiceOdometer.MEDIUM) {
+                            mediumPriceList << car
+                        } else if (i == 2 && car.choiceOdometer == ChoiceOdometer.BAD) {
+                            mediumPriceList << car
+                        }
+                    } else if (car.choicePrice == ChoicePrice.GOOD) {
+                        if (i == 0 && car.choiceOdometer == ChoiceOdometer.GOOD) {
+                            goodPriceList << car
+                        } else if (i == 1 && car.choiceOdometer == ChoiceOdometer.MEDIUM) {
+                            goodPriceList << car
+                        } else if (i == 2 && car.choiceOdometer == ChoiceOdometer.BAD) {
+                            goodPriceList << car
+                        }
                     }
                 }
             }
+
+            test << goodPriceList
+            test << mediumPriceList
+            test << badPriceList
 
             String json = JsonOutput.prettyPrint(JsonOutput.toJson(test))
             File f = new File("src/main/resources/car.json")

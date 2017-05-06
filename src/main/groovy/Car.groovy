@@ -1,40 +1,40 @@
 /**
  * Created by rossedwa on 16/4/17.
  */
-class Car implements Comparable<Car> {
+class Car {
 
     def price
+    def Odometer
     def carDescription
     def lowerBoundPrice
     def upperBoundPrice
-    Choice choice
+    ChoicePrice choicePrice
     def carWebsite
     def valuationWebsite
+    ChoiceOdometer choiceOdometer
 
-    Car(carDescription, price, lowerBoundPrice, upperBoundPrice, choice, carWebsite, valuationWebsite) {
+    Car(carDescription, price, lowerBoundPrice, upperBoundPrice, choicePrice, choiceOdometer, carWebsite, valuationWebsite, Odometer) {
         this.carDescription = carDescription
         this.price = price
         this.lowerBoundPrice = lowerBoundPrice
         this.upperBoundPrice = upperBoundPrice
-        this.choice = choice
+        this.choicePrice = choicePrice
+        this.choiceOdometer = choiceOdometer
         this.carWebsite = carWebsite
         this.valuationWebsite = valuationWebsite
+        this.Odometer = Odometer
     }
 
-    @Override
-    String toString() {
-        return String.format("%s\nPrice: %s, lower bound: %s, upper bound: %s\nDecision: %s", carDescription, price, lowerBoundPrice, upperBoundPrice, choice)
-    }
+//    @Override
+//    String toString() {
+//        return String.format("%s\nPrice: %s, lower bound: %s, upper bound: %s\nDecision: %s", carDescription, price, lowerBoundPrice, upperBoundPrice, choice, Odometer)
+//    }
+}
 
-    @Override
-    int compareTo(Car car) {
-        if(car.choice.ordinal() < this.choice.ordinal())
-            return 1
-        else if(car.choice.ordinal() > this.choice.ordinal())
-            return -1
-        else
-            return 1
-    }
+enum ChoicePrice {
+    GOOD,
+    MEDIUM,
+    BAD
 }
 
 enum Choice {
@@ -42,3 +42,12 @@ enum Choice {
     MEDIUM,
     BAD
 }
+
+
+enum ChoiceOdometer {
+    GOOD,
+    MEDIUM,
+    BAD
+}
+
+
