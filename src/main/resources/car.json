@@ -1,0 +1,983 @@
+[
+    {
+        "lowerBoundPrice": 8000,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Commodore/2010/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2010HoldenCommodore",
+        "carWebsite": "https://www.carsales.com.au/cars/results?sortby=TopDeal&limit=12&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29",
+        "upperBoundPrice": 9600,
+        "price": 6000
+    },
+    {
+        "lowerBoundPrice": 6100,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Saab/9-3/2007/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2007Saab9-3",
+        "carWebsite": "https://www.carsales.com.au/cars/results?sortby=TopDeal&limit=12&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29",
+        "upperBoundPrice": 7750,
+        "price": 6000
+    },
+    {
+        "lowerBoundPrice": 6250,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Volvo/V50/2006/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2006VolvoV50",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=12&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 8000,
+        "price": 5500
+    },
+    {
+        "lowerBoundPrice": 8750,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Fiat/500/2011/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2011Fiat500",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=12&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 1035,
+        "price": 7500
+    },
+    {
+        "lowerBoundPrice": 9450,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/SKODA/Octavia/2011/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2011SKODAOctavia",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=24&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 1110,
+        "price": 8990
+    },
+    {
+        "lowerBoundPrice": 10650,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/BMW/530i/2004/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2004BMW530i",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=24&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 13000,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 10050,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Kia/Sorento/2007/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2007KiaSorento",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=36&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 12100,
+        "price": 10000
+    },
+    {
+        "lowerBoundPrice": 5500,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Nissan/X-Trail/2004/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2004NissanX-Trail",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=48&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7200,
+        "price": 2940
+    },
+    {
+        "lowerBoundPrice": 5550,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Volkswagen/Beetle/2004/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2004VolkswagenBeetle",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=48&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7300,
+        "price": 850
+    },
+    {
+        "lowerBoundPrice": 8450,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mitsubishi/Pajero/2004/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2004MitsubishiPajero",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=60&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 1055,
+        "price": 3950
+    },
+    {
+        "lowerBoundPrice": 7550,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Subaru/Forester/2006/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2006SubaruForester",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=60&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9450,
+        "price": 6790
+    },
+    {
+        "lowerBoundPrice": 3400,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Fairmont/2004/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2004FordFairmont",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=72&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 4900,
+        "price": 2850
+    },
+    {
+        "lowerBoundPrice": 8350,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mitsubishi/Colt/2011/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2011MitsubishiColt",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=72&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9900,
+        "price": 8250
+    },
+    {
+        "lowerBoundPrice": 8100,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mazda/CX-7/2006/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2006MazdaCX-7",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=72&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 1005,
+        "price": 4740
+    },
+    {
+        "lowerBoundPrice": 13700,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Proton/Exora/2013/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2013ProtonExora",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=84&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 15600,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 10200,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Subaru/Impreza/2003/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2003SubaruImpreza",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=96&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 12550,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 8850,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/BMW/320i/2006/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2006BMW320i",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=96&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 1085,
+        "price": 7900
+    },
+    {
+        "lowerBoundPrice": 18100,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Volkswagen/Touareg/2004/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2004VolkswagenTouareg",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=108&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 21300,
+        "price": 8740
+    },
+    {
+        "lowerBoundPrice": 9000,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Subaru/Liberty/2006/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2006SubaruLiberty",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=108&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 1100,
+        "price": 6990
+    },
+    {
+        "lowerBoundPrice": 9000,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Subaru/Liberty/2006/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2006SubaruLiberty",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=108&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 1100,
+        "price": 7990
+    },
+    {
+        "lowerBoundPrice": 10300,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/BMW/X3/2004/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2004BMWX3",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=120&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 12550,
+        "price": 9750
+    },
+    {
+        "lowerBoundPrice": 10550,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Lexus/RX330/2005/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2005LexusRX330",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=120&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 12800,
+        "price": 10000
+    },
+    {
+        "lowerBoundPrice": 10750,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Falcon/2008/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2008FordFalcon",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=120&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 12750,
+        "price": 8740
+    },
+    {
+        "lowerBoundPrice": 7000,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Subaru/Liberty/2007/Automatic",
+        "choice": "GOOD",
+        "carDescription": "2007SubaruLiberty",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=120&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 8750,
+        "price": 6500
+    },
+    {
+        "lowerBoundPrice": 6500,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Hyundai/Tucson/2007/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2007HyundaiTucson",
+        "carWebsite": "https://www.carsales.com.au/cars/results?sortby=TopDeal&limit=12&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29",
+        "upperBoundPrice": 8200,
+        "price": 7888
+    },
+    {
+        "lowerBoundPrice": 5200,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Honda/Accord/2006/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2006HondaAccord",
+        "carWebsite": "https://www.carsales.com.au/cars/results?sortby=TopDeal&limit=12&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29",
+        "upperBoundPrice": 6850,
+        "price": 5900
+    },
+    {
+        "lowerBoundPrice": 5350,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mazda/3/2006/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2006Mazda3",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=12&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7000,
+        "price": 6990
+    },
+    {
+        "lowerBoundPrice": 8250,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Hyundai/Elantra/2011/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2011HyundaiElantra",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=24&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9800,
+        "price": 8940
+    },
+    {
+        "lowerBoundPrice": 7400,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Suzuki/Alto/2013/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2013SuzukiAlto",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=36&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 8800,
+        "price": 7988
+    },
+    {
+        "lowerBoundPrice": 6550,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Calais/2006/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2006HoldenCalais",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=36&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 8350,
+        "price": 8000
+    },
+    {
+        "lowerBoundPrice": 4050,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Honda/Jazz/2005/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2005HondaJazz",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=48&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 5600,
+        "price": 4150
+    },
+    {
+        "lowerBoundPrice": 8100,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Barina/2012/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2012HoldenBarina",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=48&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9600,
+        "price": 8990
+    },
+    {
+        "lowerBoundPrice": 7850,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Audi/A3/2006/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2006AudiA3",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=48&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9750,
+        "price": 9500
+    },
+    {
+        "lowerBoundPrice": 5300,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Subaru/Liberty/2004/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2004SubaruLiberty",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=48&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7050,
+        "price": 5400
+    },
+    {
+        "lowerBoundPrice": 7300,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/BMW/120i/2004/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2004BMW120i",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=60&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9250,
+        "price": 8200
+    },
+    {
+        "lowerBoundPrice": 2950,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Peugeot/206/2006/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2006Peugeot206",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=60&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 4350,
+        "price": 3740
+    },
+    {
+        "lowerBoundPrice": 6300,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mazda/3/2007/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2007Mazda3",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=60&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7950,
+        "price": 7888
+    },
+    {
+        "lowerBoundPrice": 4650,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Territory/2005/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2005FordTerritory",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=72&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 6250,
+        "price": 5500
+    },
+    {
+        "lowerBoundPrice": 6050,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Focus/2010/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2010FordFocus",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=72&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7450,
+        "price": 7000
+    },
+    {
+        "lowerBoundPrice": 7150,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/SKODA/Octavia/2008/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2008SKODAOctavia",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=84&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 8800,
+        "price": 7340
+    },
+    {
+        "lowerBoundPrice": 4100,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Camry/2005/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2005ToyotaCamry",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=84&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 5650,
+        "price": 5000
+    },
+    {
+        "lowerBoundPrice": 6050,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Chery/J11/2011/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2011CheryJ11",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=84&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7400,
+        "price": 6990
+    },
+    {
+        "lowerBoundPrice": 5450,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Nissan/Tiida/2008/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2008NissanTiida",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=84&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 6950,
+        "price": 5475
+    },
+    {
+        "lowerBoundPrice": 6750,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Honda/CR-V/2005/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2005HondaCR-V",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=84&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 8600,
+        "price": 6900
+    },
+    {
+        "lowerBoundPrice": 7550,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Peugeot/308/2011/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2011Peugeot308",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=108&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9000,
+        "price": 7990
+    },
+    {
+        "lowerBoundPrice": 3950,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Nissan/Pulsar/2005/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2005NissanPulsar",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=108&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 5500,
+        "price": 4740
+    },
+    {
+        "lowerBoundPrice": 5750,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mitsubishi/Lancer/2008/Automatic",
+        "choice": "MEDIUM",
+        "carDescription": "2008MitsubishiLancer",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=120&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7300,
+        "price": 6990
+    },
+    {
+        "lowerBoundPrice": 6650,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Hyundai/i30/2008/Automatic",
+        "choice": "BAD",
+        "carDescription": "2008 Hyundai i30",
+        "carWebsite": "https://www.carsales.com.au/cars/results?sortby=TopDeal&limit=12&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29",
+        "upperBoundPrice": 8250,
+        "price": 8600
+    },
+    {
+        "lowerBoundPrice": 8650,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Kia/Carnival/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Kia Carnival",
+        "carWebsite": "https://www.carsales.com.au/cars/results?sortby=TopDeal&limit=12&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29",
+        "upperBoundPrice": 1055,
+        "price": 10000
+    },
+    {
+        "lowerBoundPrice": 5050,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Yaris/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Toyota Yaris",
+        "carWebsite": "https://www.carsales.com.au/cars/results?sortby=TopDeal&limit=12&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29",
+        "upperBoundPrice": 6550,
+        "price": 9988
+    },
+    {
+        "lowerBoundPrice": 9650,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Kia/Rio/2012/Automatic",
+        "choice": "BAD",
+        "carDescription": "2012 Kia Rio",
+        "carWebsite": "https://www.carsales.com.au/cars/results?sortby=TopDeal&limit=12&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29",
+        "upperBoundPrice": 1125,
+        "price": 9988
+    },
+    {
+        "lowerBoundPrice": 7300,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Kia/Cerato/2010/Automatic",
+        "choice": "BAD",
+        "carDescription": "2010 Kia Cerato",
+        "carWebsite": "https://www.carsales.com.au/cars/results?sortby=TopDeal&limit=12&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29",
+        "upperBoundPrice": 8850,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 1950,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Commodore/2002/Automatic",
+        "choice": "BAD",
+        "carDescription": "2002 Holden Commodore",
+        "carWebsite": "https://www.carsales.com.au/cars/results?sortby=TopDeal&limit=12&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29",
+        "upperBoundPrice": 3350,
+        "price": 6900
+    },
+    {
+        "lowerBoundPrice": 6250,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Commodore/2008/Automatic",
+        "choice": "BAD",
+        "carDescription": "2008 Holden Commodore",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=12&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7850,
+        "price": 9999
+    },
+    {
+        "lowerBoundPrice": 8650,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Kia/Carnival/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Kia Carnival",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=12&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 1055,
+        "price": 10000
+    },
+    {
+        "lowerBoundPrice": 5950,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Territory/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Ford Territory",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=12&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7550,
+        "price": 9500
+    },
+    {
+        "lowerBoundPrice": 4650,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Volkswagen/Golf/2005/Automatic",
+        "choice": "BAD",
+        "carDescription": "2005 Volkswagen Golf",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=12&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 6250,
+        "price": 8400
+    },
+    {
+        "lowerBoundPrice": 6650,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Hyundai/i30/2008/Automatic",
+        "choice": "BAD",
+        "carDescription": "2008 Hyundai i30",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=12&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 8250,
+        "price": 8600
+    },
+    {
+        "lowerBoundPrice": 6300,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Renault/Fluence/2010/Automatic",
+        "choice": "BAD",
+        "carDescription": "2010 Renault Fluence",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=12&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7750,
+        "price": 9000
+    },
+    {
+        "lowerBoundPrice": 5100,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Subaru/Liberty/2005/Automatic",
+        "choice": "BAD",
+        "carDescription": "2005 Subaru Liberty",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=24&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 6750,
+        "price": 7900
+    },
+    {
+        "lowerBoundPrice": 3450,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mitsubishi/380/2005/Automatic",
+        "choice": "BAD",
+        "carDescription": "2005 Mitsubishi 380",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=24&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 4900,
+        "price": 5740
+    },
+    {
+        "lowerBoundPrice": 7600,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Cruze/2011/Automatic",
+        "choice": "BAD",
+        "carDescription": "2011 Holden Cruze",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=24&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9100,
+        "price": 9890
+    },
+    {
+        "lowerBoundPrice": 6250,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Volvo/V50/2006/Automatic",
+        "choice": "BAD",
+        "carDescription": "2006 Volvo V50",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=24&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 8000,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 6000,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Honda/CR-V/2003/Automatic",
+        "choice": "BAD",
+        "carDescription": "2003 Honda CR-V",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=24&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7850,
+        "price": 7990
+    },
+    {
+        "lowerBoundPrice": 4450,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mitsubishi/Outlander/2005/Automatic",
+        "choice": "BAD",
+        "carDescription": "2005 Mitsubishi Outlander",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=24&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 6050,
+        "price": 7490
+    },
+    {
+        "lowerBoundPrice": 7200,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Yaris/2008/Automatic",
+        "choice": "BAD",
+        "carDescription": "2008 Toyota Yaris",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=24&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 8900,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 6100,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Volkswagen/Jetta/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Volkswagen Jetta",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=36&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7750,
+        "price": 8990
+    },
+    {
+        "lowerBoundPrice": 3900,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Astra/2006/Automatic",
+        "choice": "BAD",
+        "carDescription": "2006 Holden Astra",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=36&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 5400,
+        "price": 6990
+    },
+    {
+        "lowerBoundPrice": 6350,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Fiesta/2010/Automatic",
+        "choice": "BAD",
+        "carDescription": "2010 Ford Fiesta",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=36&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7800,
+        "price": 9740
+    },
+    {
+        "lowerBoundPrice": 6200,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Aurion/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Toyota Aurion",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=36&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7850,
+        "price": 9000
+    },
+    {
+        "lowerBoundPrice": 6400,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Subaru/Impreza/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Subaru Impreza",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=36&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 8050,
+        "price": 8790
+    },
+    {
+        "lowerBoundPrice": 6250,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Commodore/2008/Automatic",
+        "choice": "BAD",
+        "carDescription": "2008 Holden Commodore",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=36&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7850,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 5050,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Yaris/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Toyota Yaris",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=36&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 6550,
+        "price": 7940
+    },
+    {
+        "lowerBoundPrice": 5050,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Yaris/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Toyota Yaris",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=48&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 6550,
+        "price": 9999
+    },
+    {
+        "lowerBoundPrice": 7700,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mazda/2/2010/Automatic",
+        "choice": "BAD",
+        "carDescription": "2010 Mazda 2",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=48&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9250,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 2100,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Camry/2002/Automatic",
+        "choice": "BAD",
+        "carDescription": "2002 Toyota Camry",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=48&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 3500,
+        "price": 4990
+    },
+    {
+        "lowerBoundPrice": 3650,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Falcon/2004/Automatic",
+        "choice": "BAD",
+        "carDescription": "2004 Ford Falcon",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=48&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 5150,
+        "price": 5490
+    },
+    {
+        "lowerBoundPrice": 6200,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Aurion/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Toyota Aurion",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=48&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7850,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 6300,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mazda/3/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Mazda 3",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=60&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7950,
+        "price": 7990
+    },
+    {
+        "lowerBoundPrice": 7900,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Yaris/2011/Automatic",
+        "choice": "BAD",
+        "carDescription": "2011 Toyota Yaris",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=60&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9400,
+        "price": 9740
+    },
+    {
+        "lowerBoundPrice": 5400,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Corolla/2006/Automatic",
+        "choice": "BAD",
+        "carDescription": "2006 Toyota Corolla",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=60&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7050,
+        "price": 7988
+    },
+    {
+        "lowerBoundPrice": 4300,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Citroen/C5/2006/Automatic",
+        "choice": "BAD",
+        "carDescription": "2006 Citroen C5",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=60&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 5850,
+        "price": 6900
+    },
+    {
+        "lowerBoundPrice": 6200,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Corolla/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Toyota Corolla",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=60&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7850,
+        "price": 8988
+    },
+    {
+        "lowerBoundPrice": 8350,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mitsubishi/Lancer/2011/Automatic",
+        "choice": "BAD",
+        "carDescription": "2011 Mitsubishi Lancer",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=72&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9900,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 7550,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mitsubishi/Mirage/2013/Automatic",
+        "choice": "BAD",
+        "carDescription": "2013 Mitsubishi Mirage",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=72&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9000,
+        "price": 9888
+    },
+    {
+        "lowerBoundPrice": 6350,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Fiesta/2010/Automatic",
+        "choice": "BAD",
+        "carDescription": "2010 Ford Fiesta",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=72&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7800,
+        "price": 9500
+    },
+    {
+        "lowerBoundPrice": 5850,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Ute/2005/Automatic",
+        "choice": "BAD",
+        "carDescription": "2005 Holden Ute",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=72&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7550,
+        "price": 8000
+    },
+    {
+        "lowerBoundPrice": 5800,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Camry/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Toyota Camry",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=72&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7450,
+        "price": 7990
+    },
+    {
+        "lowerBoundPrice": 5300,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Statesman/2004/Automatic",
+        "choice": "BAD",
+        "carDescription": "2004 Holden Statesman",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=72&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7000,
+        "price": 8888
+    },
+    {
+        "lowerBoundPrice": 8550,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mitsubishi/Grandis/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Mitsubishi Grandis",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=72&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 1045,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 7900,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Fiesta/2012/Automatic",
+        "choice": "BAD",
+        "carDescription": "2012 Ford Fiesta",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=84&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9350,
+        "price": 9940
+    },
+    {
+        "lowerBoundPrice": 4700,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Nissan/Tiida/2006/Automatic",
+        "choice": "BAD",
+        "carDescription": "2006 Nissan Tiida",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=84&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 6250,
+        "price": 7490
+    },
+    {
+        "lowerBoundPrice": 9950,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Dodge/Caliber/2011/Automatic",
+        "choice": "BAD",
+        "carDescription": "2011 Dodge Caliber",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=84&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 1160,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 7250,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Volkswagen/Golf/2006/Automatic",
+        "choice": "BAD",
+        "carDescription": "2006 Volkswagen Golf",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=84&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 9100,
+        "price": 9740
+    },
+    {
+        "lowerBoundPrice": 3350,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Falcon/2005/Automatic",
+        "choice": "BAD",
+        "carDescription": "2005 Ford Falcon",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=84&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 4800,
+        "price": 9250
+    },
+    {
+        "lowerBoundPrice": 5550,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Kia/Rio/2008/Automatic",
+        "choice": "BAD",
+        "carDescription": "2008 Kia Rio",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=84&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7050,
+        "price": 7990
+    },
+    {
+        "lowerBoundPrice": 5400,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Corolla/2006/Automatic",
+        "choice": "BAD",
+        "carDescription": "2006 Toyota Corolla",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=96&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7050,
+        "price": 8990
+    },
+    {
+        "lowerBoundPrice": 5100,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Subaru/Liberty/2005/Automatic",
+        "choice": "BAD",
+        "carDescription": "2005 Subaru Liberty",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=96&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 6750,
+        "price": 7440
+    },
+    {
+        "lowerBoundPrice": 5950,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mitsubishi/380/2008/Automatic",
+        "choice": "BAD",
+        "carDescription": "2008 Mitsubishi 380",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=108&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7500,
+        "price": 9450
+    },
+    {
+        "lowerBoundPrice": 4650,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Honda/Accord/2005/Automatic",
+        "choice": "BAD",
+        "carDescription": "2005 Honda Accord",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=108&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 6250,
+        "price": 9990
+    },
+    {
+        "lowerBoundPrice": 1850,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Hyundai/Getz/2003/Automatic",
+        "choice": "BAD",
+        "carDescription": "2003 Hyundai Getz",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=108&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 3200,
+        "price": 6990
+    },
+    {
+        "lowerBoundPrice": 2750,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Peugeot/307/2004/Automatic",
+        "choice": "BAD",
+        "carDescription": "2004 Peugeot 307",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=108&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 4200,
+        "price": 8990
+    },
+    {
+        "lowerBoundPrice": 7100,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Corolla/2008/Automatic",
+        "choice": "BAD",
+        "carDescription": "2008 Toyota Corolla",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=108&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 8750,
+        "price": 9888
+    },
+    {
+        "lowerBoundPrice": 4800,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Holden/Astra/2008/Automatic",
+        "choice": "BAD",
+        "carDescription": "2008 Holden Astra",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=120&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 6200,
+        "price": 7490
+    },
+    {
+        "lowerBoundPrice": 4100,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Toyota/Camry/2005/Automatic",
+        "choice": "BAD",
+        "carDescription": "2005 Toyota Camry",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=120&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 5650,
+        "price": 7490
+    },
+    {
+        "lowerBoundPrice": 3950,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Nissan/Pulsar/2005/Automatic",
+        "choice": "BAD",
+        "carDescription": "2005 Nissan Pulsar",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=120&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 5500,
+        "price": 8990
+    },
+    {
+        "lowerBoundPrice": 1650,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Mitsubishi/Mirage/2003/Automatic",
+        "choice": "BAD",
+        "carDescription": "2003 Mitsubishi Mirage",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=120&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 3000,
+        "price": 6990
+    },
+    {
+        "lowerBoundPrice": 5900,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Volkswagen/Golf/2007/Automatic",
+        "choice": "BAD",
+        "carDescription": "2007 Volkswagen Golf",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=120&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 7500,
+        "price": 9750
+    },
+    {
+        "lowerBoundPrice": 4250,
+        "valuationWebsite": "https://www.carsales.com.au/car-valuations/refine/Ford/Mondeo/2009/Automatic",
+        "choice": "BAD",
+        "carDescription": "2009 Ford Mondeo",
+        "carWebsite": "https://www.carsales.com.au/cars/results?offset=120&setype=pagination&q=%28And.Service.Carsales._.State.ACT._.GenericGearType.Automatic._.Price.range%28..10100%29.%29&sortby=TopDeal&limit=12",
+        "upperBoundPrice": 5550,
+        "price": 9740
+    }
+]
